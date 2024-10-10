@@ -1,8 +1,55 @@
 {
-	"repo_list": [		
+	"repo_list": [{
+			"name": "NOOBS",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
+		},
+		{
+			"name": "Raspios",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
+		},
+		{
+			"name": "oldstable",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_bullseye.json"
+		},
 		{
 			"name": "PINN",
-			"url": "http://raw.githubusercontent.com/simtcrom/pinn/main/os/os_all.json"
-		}		
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
+		},
+		{
+			"name": "Retropie48",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
+		},
+		{
+			"name": "Testing",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
+		},
+		{
+			"name": "Matt Huisman",
+			"url": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
+		},
+		{
+			"name": "Sakaki",
+			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
+		},
+		{
+			"name": "Recalbox",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
+		},
+		{
+			"name": "LibreElec",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec.json"
+		},
+		{
+			"name": "LibreElec11",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec11.json"
+		},
+		{
+			"name": "TLXOS",
+			"url": "http://rpi.thinlinx.com/NOOBS/os_list_v3.json"
+		},
+		{
+			"name": "XBian",
+			"url": "http://sourceforge.net/projects/xbian/files/noobs/os_xbian.json"
+		}
 	]
 }
