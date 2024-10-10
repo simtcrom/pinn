@@ -2,7 +2,7 @@
 	"repo_list": [		
 		{
 			"name": "PINN",
-			"url": "http://raw.githubusercontent.com/simtcrom/pinn/master/os/os_all.json"
+			"url": "http://raw.githubusercontent.com/simtcrom/pinn/main/os/os_all.json"
 		}		
 	]
 }
